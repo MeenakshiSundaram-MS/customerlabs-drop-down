@@ -25,7 +25,7 @@ p {
 }
 
 .ft-btn1 {
-  background-color: #56c79f;
+  background-color: #25c9a8;
   color: white;
   border-radius: 5px;
   padding: 0.5rem;
@@ -64,6 +64,6 @@ select {
 
 .btn-link {
   font-size: 12px;
-  color: #1C8D73;
+  color: #25c9a8;
   font-weight: bold;
 }
